@@ -59,9 +59,9 @@ I'm always open to exciting new projects, collaborations, or simply having a cha
 ## :rocket: GitHub History
 
 <div>
-    <img width="100%" height="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zackkh&theme=tokyonight"/>
-    <img width="100%" height="100%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zackkh&theme=tokyonight">
-    <img width="100%" height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackkh&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zackkh&theme=tokyonight"/>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zackkh&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zackkh&theme=tokyonight" />
 </div>
 
 :star:**_Thank you for visiting my GitHub profile! I look forward to connecting with you._**:star:
