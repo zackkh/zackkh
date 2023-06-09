@@ -2,11 +2,12 @@
 
 <div>
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzackkh1212%2Fhit-counter" />
+    <br />
     <img src="https://github-profile-trophy.vercel.app/?username=zackkh&theme=tokyonight"/>
 </div>
 
 <div align="center">
-    <img href="https://media.giphy.com/media/NiU9MQUOSaOPe/giphy.gif" />
+    <img src="https://media.giphy.com/media/NiU9MQUOSaOPe/giphy.gif" />
 </div>
 
 ## :star: Overview
