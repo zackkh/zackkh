@@ -32,7 +32,7 @@ I'm always open to exciting new projects, collaborations, or simply having a cha
     </a>
 </p>
 
-## :computer: Tech Stack
+## :computer: Tech
 
 <div>
     <img src="https://img.shields.io/badge/lenovo%20laptop-E2231A?style=for-the-badge&logo=lenovo&logoColor=white" />
